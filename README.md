@@ -1,0 +1,1 @@
+# Validatation-of-SQL-queriess
